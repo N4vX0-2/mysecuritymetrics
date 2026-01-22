@@ -201,9 +201,19 @@ Continued use of the Product after changes constitutes acceptance of the updated
 
 ---
 
-## 12. Governing Law
+## 12. Governing Law and Jurisdiction (United States Only)
 
-These Terms shall be governed by and construed in accordance with applicable law, without regard to conflict-of-law principles.
+This Product is intended for use **within the United States only**.
+
+These Terms of Use, and any dispute, claim, or controversy arising out of or relating to the Product, shall be governed exclusively by the laws of the **United States of America** and the laws of the **State in which the Product ownership entity is domiciled**, without regard to conflict-of-law principles.
+
+You expressly agree that:
+- Any legal action or proceeding must be brought **exclusively in U.S. federal or state courts**
+- You submit to the **personal and exclusive jurisdiction** of such courts
+- Venue shall be proper only within the United States
+- Use of the Product from jurisdictions where such use would violate local law is **not authorized**
+
+If you access or use the Product from outside the United States, you do so **entirely at your own risk** and are solely responsible for compliance with any applicable local laws.
 
 ---
 
