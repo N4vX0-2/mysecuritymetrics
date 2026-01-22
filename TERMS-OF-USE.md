@@ -10,7 +10,11 @@ If you do not agree to these Terms, do not use the Product.
 ---
 FIRST AND FOREMOST: 
 ## Unauthorized Access, Abuse, and Security Violations
+---
+## Export Control and Restricted Use
 
+This Product is subject to United States export control laws. Use, access, or transfer of the Product outside the United States is prohibited. Unauthorized foreign access or transfer may result in civil and criminal penalties.
+---
 Any attempt to:
 
 - Circumvent, bypass, probe, or break the Product’s code or execution environment
