@@ -28,6 +28,7 @@ The following actions are **explicitly prohibited without prior written authoriz
 - Commercial use, resale, redistribution, hosting, or monetization
 - Use of the product (or its concepts) as part of a paid service, consulting offering, SaaS platform, or bundled product
 - Training, AI model input, or dataset extraction for commercial or competitive purposes
+- Unauthorized attempts to access, probe, disrupt, exploit, or misuse this Product or any associated infrastructure will be treated as hostile acts and may    be referred to law enforcement. Claims of “testing” or “curiosity” do not constitute authorization. 
 
 These restrictions apply to **both individuals and organizations**.
 
