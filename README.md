@@ -9,17 +9,22 @@ Source code is intentionally **not published at this time**.
 
 ## What It Does
 
-MySecurityMetrics helps organizations understand their security posture and compliance readiness across common frameworks by using guided questionnaires and prioritized gap analysis.
+MySecurityMetrics "ComplianceQuest" helps organizations understand their security posture and compliance readiness across common frameworks by using guided questionnaires and prioritized gap analysis.
 
 Supported frameworks include:
 
-- PCI DSS 4.0 (readiness)
-- SOC 2 (readiness)
-- CIS Controls v8
-- NIST Cybersecurity Framework (CSF)
-- HIPAA Security Rule (readiness)
-- Cyber Insurance Readiness
-- Cybersecurity Hardening Checklist
+- PCI DSS 4.0 readiness
+- SOC 2 readiness (not an audit)
+- CIS Controls v8 alignment
+- NIST CSF alignment
+- HIPAA Security Rule readiness
+- Cyber Insurance readiness
+- Cloud Security readiness
+- Ransomware / Disaster Resilience
+- FERPA readiness
+- State Privacy Law readiness
+- Cybersecurity Maturity Stance
+- AI Governance & Shadow AI readiness
 
 ---
 
@@ -35,10 +40,10 @@ Supported frameworks include:
 
 ## Project Status
 
-- **Status:** Private Beta
-- **Current Version:** v15
+- **Status:** Production, in negotiations with third parties currently
+- **Current Version:** v16
 - **Availability:** Not publicly released
-- **Source Code:** Private (pending legal review)
+- **Source Code:** Source Code is private and not for general Release
 
 ---
 
