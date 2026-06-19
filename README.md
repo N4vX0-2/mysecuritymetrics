@@ -1,6 +1,6 @@
 # MySecurityMetrics (ComplianceQuest)
 
-**MySecurityMetrics** is a browser-based compliance readiness and security posture assessment platform currently in private beta.
+**MySecurityMetrics** is a browser-based compliance readiness and security posture assessment platform currently in production via third party with the below stated version coming shortly.
 
 This repository represents the **project overview only**.  
 Source code is intentionally **not published at this time**.
